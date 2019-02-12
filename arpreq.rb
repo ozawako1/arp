@@ -33,6 +33,7 @@ end
 interface = "en0"
 target_ip = "192.168.120.157"
 
+# 以下２行をモディファイ
 begin_ipaddr = "192.168.120.1"
 begin_macaddr = "b8:e8:56:12:06:da"
 
